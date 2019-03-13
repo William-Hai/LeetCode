@@ -1,7 +1,11 @@
 package LeetCode_002;
 
-public class Main {
-    public static void main(String[] args){
+import org.junit.Test;
+
+public class SolutionTest {
+
+    @Test
+    public void test1() {
         Solution solution = new Solution();
 
         ListNode ln1 = new ListNode(2);
