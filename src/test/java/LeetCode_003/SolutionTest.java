@@ -8,8 +8,18 @@ public class SolutionTest {
     @Test
     public void test1() {
         Solution solution = new Solution();
-        int result = solution.lengthOfLongestSubstring("abcabcbb");
+        Assert.assertEquals(3, solution.lengthOfLongestSubstring("abcabcbb"));
+    }
 
-        Assert.assertEquals(result, 3);
+    @Test
+    public void test2() {
+        Solution solution = new Solution();
+        Assert.assertEquals(1, solution.lengthOfLongestSubstring("bbbbb"));
+    }
+
+    @Test
+    public void test3() {
+        Solution solution = new Solution();
+        Assert.assertEquals(3, solution.lengthOfLongestSubstring("pwwkew"));
     }
 }
