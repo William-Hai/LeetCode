@@ -4,6 +4,9 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
+ * Integer.MAX_VALUE 2147483647
+ * Integer.MIN_VALUE -2147483648
+ *
  * @Author: Q-WHai
  * @Date: Created in 18:02 2019/03/19
  */
@@ -66,6 +69,84 @@ public class SolutionTest {
     @Test
     public void test10() {
         Solution solution = new Solution();
-        Assert.assertEquals(-1, solution.myAtoi("-+1"));
+        Assert.assertEquals(0, solution.myAtoi("-+1"));
+    }
+
+    @Test
+    public void test11() {
+        Solution solution = new Solution();
+        Assert.assertEquals(0, solution.myAtoi("- 1"));
+    }
+
+    @Test
+    public void test12() {
+        Solution solution = new Solution();
+        Assert.assertEquals(0, solution.myAtoi("--1"));
+    }
+
+    @Test
+    public void test13() {
+        Solution solution = new Solution();
+        Assert.assertEquals(0, solution.myAtoi("+-1"));
+    }
+
+    @Test
+    public void test14() {
+        Solution solution = new Solution();
+        Assert.assertEquals(0, solution.myAtoi("++1"));
+    }
+
+    @Test
+    public void test15() {
+        Solution solution = new Solution();
+        Assert.assertEquals(2147483647, solution.myAtoi("2147483647"));
+    }
+
+    @Test
+    public void test16() {
+        Solution solution = new Solution();
+        Assert.assertEquals(2147483647, solution.myAtoi("2147483648"));
+    }
+
+    @Test
+    public void test17() {
+        Solution solution = new Solution();
+        Assert.assertEquals(2147483646, solution.myAtoi("2147483646"));
+    }
+
+    @Test
+    public void test18() {
+        Solution solution = new Solution();
+        Assert.assertEquals(-2147483647, solution.myAtoi("-2147483647"));
+    }
+
+    @Test
+    public void test19() {
+        Solution solution = new Solution();
+        Assert.assertEquals(-2147483648, solution.myAtoi("-2147483648"));
+    }
+
+    @Test
+    public void test20() {
+        Solution solution = new Solution();
+        Assert.assertEquals(-2147483648, solution.myAtoi("-2147483649"));
+    }
+
+    @Test
+    public void test21() {
+        Solution solution = new Solution();
+        Assert.assertEquals(0, solution.myAtoi(""));
+    }
+
+    @Test
+    public void test22() {
+        Solution solution = new Solution();
+        Assert.assertEquals(0, solution.myAtoi("a"));
+    }
+
+    @Test
+    public void test23() {
+        Solution solution = new Solution();
+        Assert.assertEquals(0, solution.myAtoi(" "));
     }
 }

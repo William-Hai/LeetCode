@@ -1,5 +1,6 @@
 package LeetCode_002;
 
+import org.junit.Assert;
 import org.junit.Test;
 
 public class SolutionTest {
@@ -17,6 +18,18 @@ public class SolutionTest {
         ln2.next.next = new ListNode(4);
 
         ListNode ln3 = solution.addTwoNumbers(ln1, ln2);
-        System.out.println(ln3);
+
+        Assert.assertEquals("7->0->8", output(ln3));
+    }
+
+    private String output(ListNode ln) {
+        String s = "";
+        ListNode tln = ln;
+        while (null != tln) {
+            s = String.format("%s%s%d", s, 0 == s.length() ? "" : "->", tln.val);
+            tln = tln.next;
+        }
+
+        return s;
     }
 }
