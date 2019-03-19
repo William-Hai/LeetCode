@@ -38,4 +38,34 @@ public class SolutionTest {
         Solution solution = new Solution();
         Assert.assertEquals(-2147483648, solution.myAtoi("-91283472332"));
     }
+
+    @Test
+    public void test6() {
+        Solution solution = new Solution();
+        Assert.assertEquals(-1, solution.myAtoi("-000000000000001"));
+    }
+
+    @Test
+    public void test7() {
+        Solution solution = new Solution();
+        Assert.assertEquals(12345678, solution.myAtoi("  0000000000012345678"));
+    }
+
+    @Test
+    public void test8() {
+        Solution solution = new Solution();
+        Assert.assertEquals(1, solution.myAtoi("+1"));
+    }
+
+    @Test
+    public void test9() {
+        Solution solution = new Solution();
+        Assert.assertEquals(0, solution.myAtoi("-"));
+    }
+
+    @Test
+    public void test10() {
+        Solution solution = new Solution();
+        Assert.assertEquals(-1, solution.myAtoi("-+1"));
+    }
 }
