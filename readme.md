@@ -10,7 +10,7 @@
 > [043](src/main/java/LeetCode_043)
 > [053](src/main/java/LeetCode_053)
 > [058](src/main/java/LeetCode_058)
-> [066](src/main/java/LeetCode_066)
+> [066](src/main/java/LeetCode_066) [067](src/main/java/LeetCode_066)
 > [073](src/main/java/LeetCode_073)
 > [084](src/main/java/LeetCode_084)
 > [209](src/main/java/LeetCode_209)
