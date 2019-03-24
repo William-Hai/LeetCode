@@ -1,4 +1,8 @@
-# LeetCode
+## LeetCode
+
+[![lang](https://img.shields.io/badge/lang-java%2012-brightgreen.svg)]()
+[![ide](https://img.shields.io/badge/ide-IntelliJ%20IDEA-brightgreen.svg)]()
+[![maven](https://img.shields.io/badge/maven-3.6.0-brightgreen.svg)]()
 
 > [001](src/main/java/LeetCode_001) [002](src/main/java/LeetCode_002) [003](src/main/java/LeetCode_003) [004](src/main/java/LeetCode_004) [005](src/main/java/LeetCode_005)
 > [007](src/main/java/LeetCode_007) [008](src/main/java/LeetCode_008) [009](src/main/java/LeetCode_009)
@@ -10,7 +14,7 @@
 > [043](src/main/java/LeetCode_043)
 > [053](src/main/java/LeetCode_053)
 > [058](src/main/java/LeetCode_058)
-> [066](src/main/java/LeetCode_066) [067](src/main/java/LeetCode_066)
+> [066](src/main/java/LeetCode_066) [067](src/main/java/LeetCode_067) [069](src/main/java/LeetCode_069)
 > [073](src/main/java/LeetCode_073)
 > [084](src/main/java/LeetCode_084)
 > [209](src/main/java/LeetCode_209)
