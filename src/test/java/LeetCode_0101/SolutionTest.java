@@ -90,4 +90,15 @@ public class SolutionTest {
 
         Assert.assertFalse(new Solution().isSymmetric(root));
     }
+
+    @Test
+    public void test5() {
+        TreeNode root = new TreeNode(1);
+        {
+            root.left = new TreeNode(2);
+            root.right = new TreeNode(3);
+        }
+
+        Assert.assertFalse(new Solution().isSymmetric(root));
+    }
 }
