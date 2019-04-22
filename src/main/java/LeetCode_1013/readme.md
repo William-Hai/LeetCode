@@ -1,4 +1,4 @@
-## [1020. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)
+## [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)
 
 Given an array `A` of integers, return `true` if and only if we can partition the array into three **non-empty** parts with equal sums.
 

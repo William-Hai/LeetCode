@@ -1,4 +1,4 @@
-package LeetCode_1020;
+package LeetCode_1013;
 
 class Solution {
 
