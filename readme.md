@@ -45,5 +45,6 @@
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Solution](src/main/java/LeetCode_0771) | Easy | Accepted |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Solution](src/main/java/LeetCode_1013) | Easy | Accepted |
 | **1018** | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Solution](src/main/java/LeetCode_1018) | Easy | Accepted |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](src/main/java/LeetCode_1021) | Easy | Accepted |
 
 Github
