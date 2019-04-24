@@ -41,6 +41,7 @@
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](src/main/java/LeetCode_0104) | Easy | Accepted |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](src/main/java/LeetCode_0209) | Medium | Accepted |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](src/main/java/LeetCode_0415) | Easy | Accepted |
+| 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Solution](src/main/java/LeetCode_0771) | Easy | Accepted |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Solution](src/main/java/LeetCode_1013) | Easy | Accepted |
 | **1018** | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Solution](src/main/java/LeetCode_1018) | Easy | Accepted |
 
