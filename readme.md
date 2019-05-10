@@ -42,6 +42,9 @@
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](src/main/java/LeetCode_0415) | Easy | Accepted |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Solution](src/main/java/LeetCode_0709) | Easy | Accepted |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Solution](src/main/java/LeetCode_0771) | Easy | Accepted |
+| 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](src/main/java/LeetCode_0804) | Easy | Accepted |
+| 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Solution](src/main/java/LeetCode_0929) | Easy | Accepted |
+| 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](src/main/java/LeetCode_0961) | Easy | Accepted |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Solution](src/main/java/LeetCode_1013) | Easy | Accepted |
 | **1018** | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Solution](src/main/java/LeetCode_1018) | Easy | Accepted |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](src/main/java/LeetCode_1021) | Easy | Accepted |
