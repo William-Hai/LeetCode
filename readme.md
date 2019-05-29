@@ -50,5 +50,6 @@
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Solution](src/main/java/LeetCode_1013) | Easy | Accepted |
 | **1018** | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Solution](src/main/java/LeetCode_1018) | Easy | Accepted |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](src/main/java/LeetCode_1021) | Easy | Accepted |
+| 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Solution](src/main/java/LeetCode_1022) | Easy | Accepted |
 
-Github
+[Github](https://github.com/qwhai)
