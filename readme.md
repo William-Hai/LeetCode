@@ -45,6 +45,7 @@
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Solution](src/main/java/LeetCode_0709) | Easy | Accepted |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Solution](src/main/java/LeetCode_0771) | Easy | Accepted |
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](src/main/java/LeetCode_0804) | Easy | Accepted |
+| 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](src/main/java/LeetCode_0905) | Easy | Accepted |
 | 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Solution](src/main/java/LeetCode_0929) | Easy | Accepted |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](src/main/java/LeetCode_0938) | Easy | Accepted |
 | 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](src/main/java/LeetCode_0961) | Easy | Accepted |
