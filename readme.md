@@ -1,8 +1,8 @@
 ## [LeetCode](https://leetcode.com/problemset/algorithms/)
 
-[![lang](https://img.shields.io/badge/lang-java%2012-brightgreen.svg)]()
-[![ide](https://img.shields.io/badge/ide-IntelliJ%20IDEA-brightgreen.svg)]()
-[![maven](https://img.shields.io/badge/maven-3.6.0-brightgreen.svg)]()
+![](https://img.shields.io/badge/java-1.8-cornflowerblue.svg)
+![](https://img.shields.io/badge/ide-intellij%20idea-blue.svg)
+![](https://img.shields.io/badge/maven-3.6.1-orangered.svg)
 
 
 | #    | Title   | Solution                    | Difficulty                        | Acceptance |
@@ -39,6 +39,7 @@
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](src/main/java/LeetCode_0100) | Easy | Accepted |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution](src/main/java/LeetCode_0101) | Easy | Accepted |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](src/main/java/LeetCode_0104) | Easy | Accepted |
+| 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](src/main/java/LeetCode_0155) | Easy | Accepted |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](src/main/java/LeetCode_0209) | Medium | Accepted |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](src/main/java/LeetCode_0415) | Easy | Accepted |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Solution](src/main/java/LeetCode_0709) | Easy | Accepted |
