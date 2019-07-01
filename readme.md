@@ -47,7 +47,7 @@
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](src/main/java/LeetCode_0804) | Easy | Accepted |
 | 0807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Solution](src/main/java/LeetCode_0807) | Medium | Accepted |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Solution](src/main/java/LeetCode_0832) | Easy | Accepted |
-| 0877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [Solution](src/main/java/LeetCode_0832) | Medium | Accepted |
+| **0877** | [Stone Game](https://leetcode.com/problems/stone-game/) | [Solution](src/main/java/LeetCode_0832) | Medium | Accepted |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](src/main/java/LeetCode_0905) | Easy | Accepted |
 | 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Solution](src/main/java/LeetCode_0929) | Easy | Accepted |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](src/main/java/LeetCode_0938) | Easy | Accepted |
