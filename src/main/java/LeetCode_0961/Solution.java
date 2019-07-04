@@ -4,8 +4,9 @@ package LeetCode_0961;
  * @Author: Q-WHai
  * @Date: Created in 13:35 2019/04/25
  */
-class Solution {
-    int repeatedNTimes(int[] A) {
+public class Solution {
+
+    public int repeatedNTimes(int[] A) {
         int n = A.length / 2;
         int[] counts = new int[A.length];
         counts[0] = 1;

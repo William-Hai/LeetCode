@@ -1,10 +1,10 @@
 package LeetCode_0070;
 
-class Solution {
+public class Solution {
 
     private int[] steps = new int[1000];
 
-    int climbStairs(int n) {
+    public int climbStairs(int n) {
         steps[0] = 0;
         steps[1] = 1;
         steps[2] = 2;

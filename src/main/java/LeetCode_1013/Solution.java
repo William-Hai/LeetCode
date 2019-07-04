@@ -1,8 +1,8 @@
 package LeetCode_1013;
 
-class Solution {
+public class Solution {
 
-    boolean canThreePartsEqualSum(int[] A) {
+    public boolean canThreePartsEqualSum(int[] A) {
         int sum = sum(A);
         if (0 != sum % 3) return false;
 

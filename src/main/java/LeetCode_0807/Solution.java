@@ -11,7 +11,7 @@ package LeetCode_0807;
  */
 public class Solution {
 
-    int maxIncreaseKeepingSkyline(int[][] grid) {
+    public int maxIncreaseKeepingSkyline(int[][] grid) {
         int[] rowHeights = new int[grid.length];
         int[] colHeights = new int[grid[0].length];
 

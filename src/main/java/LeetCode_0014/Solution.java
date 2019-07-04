@@ -1,8 +1,8 @@
 package LeetCode_0014;
 
-class Solution {
+public class Solution {
 
-    String longestCommonPrefix(String[] strs) {
+    public String longestCommonPrefix(String[] strs) {
 
         if (0 == strs.length) return "";
 

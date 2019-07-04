@@ -1,8 +1,8 @@
 package LeetCode_0069;
 
-class Solution {
+public class Solution {
 
-    int mySqrt(int x) {
+    public int mySqrt(int x) {
         return (int)Math.sqrt(x);
     }
 }

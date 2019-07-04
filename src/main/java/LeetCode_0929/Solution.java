@@ -4,8 +4,9 @@ package LeetCode_0929;
  * @Author: Q-WHai
  * @Date: Created in 13:16 2019/04/25
  */
-class Solution {
-    int numUniqueEmails(String[] emails) {
+public class Solution {
+
+    public int numUniqueEmails(String[] emails) {
         for (int i = 0; i < emails.length; i++) {
             emails[i] = format(emails[i]);
         }

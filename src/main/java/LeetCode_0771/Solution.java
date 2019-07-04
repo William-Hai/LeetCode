@@ -5,8 +5,9 @@ package LeetCode_0771;
  * @Author Q-WHai
  * @Date 2019/4/24 23:52
  */
-class Solution {
-    int numJewelsInStones(String J, String S) {
+public class Solution {
+
+    public int numJewelsInStones(String J, String S) {
         char[] charsJ = J.toCharArray();
         char[] charsS = S.toCharArray();
 

@@ -8,9 +8,9 @@ package LeetCode_0083;
  *     ListNode(int x) { val = x; }
  * }
  */
-class Solution {
+public class Solution {
 
-    ListNode deleteDuplicates(ListNode head) {
+    public ListNode deleteDuplicates(ListNode head) {
         ListNode last = null;
         ListNode currNode = head;
         boolean first = true;

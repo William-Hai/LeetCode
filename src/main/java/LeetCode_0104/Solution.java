@@ -13,8 +13,9 @@ package LeetCode_0104;
  * @Author Q-WHai
  * @Date 2019/4/22 23:52
  */
-class Solution {
-    int maxDepth(TreeNode root) {
+public class Solution {
+
+    public int maxDepth(TreeNode root) {
         return depth(root, 0);
     }
 

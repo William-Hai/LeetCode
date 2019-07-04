@@ -1,7 +1,8 @@
 package LeetCode_0066;
 
-class Solution {
-    int[] plusOne(int[] digits) {
+public class Solution {
+
+    public int[] plusOne(int[] digits) {
         if (null == digits || 0 == digits.length) return new int[] { 1 };
 
         int overflow = 0;

@@ -10,8 +10,8 @@ package LeetCode_0938;
  * @see <a href="https://github.com/qwhai">https://github.com/qwhai</a>
  */
 public class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) { val = x; }
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
+    public TreeNode(int x) { val = x; }
 }

@@ -7,8 +7,8 @@ import java.util.List;
  * @Author: Q-WHai
  * @Date: Created in 17:28 2019/04/22
  */
-class Solution {
-    boolean isSameTree(TreeNode p, TreeNode q) {
+public class Solution {
+    public boolean isSameTree(TreeNode p, TreeNode q) {
         List<Element> list1 = preorderTraversal(p);
         List<Element> list2 = preorderTraversal(q);
 

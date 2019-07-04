@@ -1,6 +1,6 @@
 package LeetCode_0013;
 
-class Solution {
+public class Solution {
 
     public int romanToInt(String s) {
         int[] valueArray = getValueArray();

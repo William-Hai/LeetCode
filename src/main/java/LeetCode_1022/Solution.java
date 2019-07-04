@@ -8,8 +8,9 @@ import java.util.List;
  * @Author Q-WHai
  * @Date 2019/5/10 20:14
  */
-class Solution {
-    int sumRootToLeaf(TreeNode root) {
+public class Solution {
+
+    public int sumRootToLeaf(TreeNode root) {
 
         List<String> binarys = new ArrayList<>();
         traverse(root, String.format("%d", root.val), binarys);

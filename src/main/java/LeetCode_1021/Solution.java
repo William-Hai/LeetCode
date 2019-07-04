@@ -5,8 +5,9 @@ package LeetCode_1021;
  * @Author Q-WHai
  * @Date 2019/4/25 0:17
  */
-class Solution {
-    String removeOuterParentheses(String S) {
+public class Solution {
+
+    public String removeOuterParentheses(String S) {
         char[] chars = S.toCharArray();
         int[] flags = new int[chars.length];
         int a = 0;

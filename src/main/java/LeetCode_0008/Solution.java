@@ -4,9 +4,9 @@ package LeetCode_0008;
  * @Author: Q-WHai
  * @Date: Created in 18:02 2019/03/19
  */
-class Solution {
+public class Solution {
 
-    int myAtoi(String str) {
+    public int myAtoi(String str) {
         char[] chars = str.toCharArray();
         if (0 == chars.length) return 0;
         int sign = 1, i = 0;

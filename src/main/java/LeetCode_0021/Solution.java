@@ -4,8 +4,8 @@ package LeetCode_0021;
  * @Author: Q-WHai
  * @Date: Created in 11:37 2019/03/19
  */
-class Solution {
-    ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+public class Solution {
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode n1 = l1;
         ListNode n2 = l2;
 

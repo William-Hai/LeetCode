@@ -22,8 +22,9 @@ import java.util.List;
  *     TreeNode(int x) { val = x; }
  * }
  */
-class Solution {
-    TreeNode bstToGst(TreeNode root) {
+public class Solution {
+
+    public TreeNode bstToGst(TreeNode root) {
         if (null == root) return null;
 
         List<TreeNode> list = new ArrayList<>();

@@ -4,9 +4,9 @@ package LeetCode_0026;
  * @Author: Q-WHai
  * @Date: Created in 14:16 2019/03/19
  */
-class Solution {
+public class Solution {
 
-    int removeDuplicates(int[] nums) {
+    public int removeDuplicates(int[] nums) {
         if (0 == nums.length) return 0;
 
         int i = 0;

@@ -11,7 +11,7 @@ import java.util.Stack;
  * @author Q-WHai
  * @see <a href="https://github.com/qwhai">https://github.com/qwhai</a>
  */
-class MinStack {
+public class MinStack {
 
     private Stack<Integer> stack = new Stack<>();       // 实际栈
     private Stack<Integer> minStack = new Stack<>();    // 最小数值下标栈
@@ -19,13 +19,13 @@ class MinStack {
     /** initialize your data structure here. */
     public MinStack() { }
 
-    void push(int x) {
+    public void push(int x) {
         stack.push(x);
         if (minStack.empty() || stack.get(minStack.peek()) >= x)
             minStack.push(stack.size() - 1);
     }
 
-    void pop() {
+    public void pop() {
         int size = stack.size();
         stack.pop();
 
@@ -33,11 +33,11 @@ class MinStack {
             minStack.pop();
     }
 
-    int top() {
+    public int top() {
         return stack.peek();
     }
 
-    int getMin() {
+    public int getMin() {
         return stack.get(minStack.peek());
     }
 }

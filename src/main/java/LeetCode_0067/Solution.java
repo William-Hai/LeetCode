@@ -1,7 +1,7 @@
 package LeetCode_0067;
 
-class Solution {
-    String addBinary(String a, String b) {
+public class Solution {
+    public String addBinary(String a, String b) {
         char[] chars_a = a.length() >= b.length() ? a.toCharArray() : b.toCharArray();
         char[] chars_b = a.length() < b.length() ? a.toCharArray() : b.toCharArray();
 
@@ -23,11 +23,11 @@ class Solution {
         return output(chars_c, overflow);
     }
 
-    String output(int[] data, int overflow) {
+    private String output(int[] data, int overflow) {
         return 0 == overflow ? output(data) : String.format("%d%s", overflow, output(data));
     }
 
-    String output(int[] data) {
+    private String output(int[] data) {
         String result = "";
         for (int d : data) {
             result = String.format("%s%d", result, d);

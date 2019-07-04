@@ -1,6 +1,7 @@
 package LeetCode_0043;
 
-class Solution {
+public class Solution {
+
     public String multiply(String num1, String num2) {
         int[] a1 = convert(num1);
         int[] a2 = convert(num2);

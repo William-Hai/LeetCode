@@ -4,8 +4,9 @@ package LeetCode_0038;
  * @Author: Q-WHai
  * @Date: Created in 16:09 2019/03/19
  */
-class Solution {
-    String countAndSay(int n) {
+public class Solution {
+
+    public String countAndSay(int n) {
         if (1 == n) return "1";
         String last = "1";
         for (int i = 2; i <= n; i++) {

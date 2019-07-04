@@ -4,8 +4,8 @@ package LeetCode_0028;
  * @Author: Q-WHai
  * @Date: Created in 15:09 2019/03/19
  */
-class Solution {
-    int strStr(String haystack, String needle) {
+public class Solution {
+    public int strStr(String haystack, String needle) {
         if (null == haystack || null == needle) return -1;
         int hlen = haystack.length();
         int nlen = needle.length();

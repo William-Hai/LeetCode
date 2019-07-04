@@ -5,8 +5,9 @@ package LeetCode_0709;
  * @Author Q-WHai
  * @Date 2019/4/25 0:07
  */
-class Solution {
-    String toLowerCase(String str) {
+public class Solution {
+
+    public String toLowerCase(String str) {
         char[] a = str.toCharArray();
         for (int i = a.length - 1; i >= 0; i--) {
             if ('A' <= a[i] && a[i] <= 'Z') {

@@ -4,8 +4,9 @@ package LeetCode_0804;
  * @Author: Q-WHai
  * @Date: Created in 11:10 2019/04/25
  */
-class Solution {
-    int uniqueMorseRepresentations(String[] words) {
+public class Solution {
+
+    public int uniqueMorseRepresentations(String[] words) {
         String[] morses = new String[] {
                 ".-",
                 "-...",

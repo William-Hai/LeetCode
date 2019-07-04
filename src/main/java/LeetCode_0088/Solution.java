@@ -1,7 +1,7 @@
 package LeetCode_0088;
 
-class Solution {
-    void merge(int[] nums1, int m, int[] nums2, int n) {
+public class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
         int i = m + n - 1;
         int k1 = m - 1;
         int k2 = n - 1;

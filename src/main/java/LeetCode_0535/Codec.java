@@ -13,13 +13,13 @@ import java.util.Random;
  * @author Q-WHai
  * @see <a href="https://github.com/qwhai">https://github.com/qwhai</a>
  */
-class Codec {
+public class Codec {
 
     private Map<String, String> map1 = new HashMap<>();
     private Map<String, String> map2 = new HashMap<>();
 
     // Encodes a URL to a shortened URL.
-    String encode(String longUrl) {
+    public String encode(String longUrl) {
         if (!map1.containsKey(longUrl)) {
             String tiny;
             while (true) {
@@ -36,7 +36,7 @@ class Codec {
     }
 
     // Decodes a shortened URL to its original URL.
-    String decode(String shortUrl) {
+    public String decode(String shortUrl) {
         return map2.getOrDefault(shortUrl, "");
     }
 

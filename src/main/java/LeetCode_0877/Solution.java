@@ -12,10 +12,11 @@ package LeetCode_0877;
  * @see <a href="https://github.com/qwhai">https://github.com/qwhai</a>
  */
 public class Solution {
+
     private int[] piles = null;
     private int[][] dp = null;
 
-    boolean stoneGame(int[] piles) {
+    public boolean stoneGame(int[] piles) {
         this.piles = piles;
         this.dp = new int[piles.length][piles.length];
 

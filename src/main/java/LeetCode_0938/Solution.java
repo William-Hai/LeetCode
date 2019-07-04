@@ -14,8 +14,9 @@ package LeetCode_0938;
  * @author Q-WHai
  * @see <a href="https://github.com/qwhai">https://github.com/qwhai</a>
  */
-class Solution {
-    int rangeSumBST(TreeNode root, int L, int R) {
+public class Solution {
+
+    public int rangeSumBST(TreeNode root, int L, int R) {
         return sum(root, L, R);
     }
 

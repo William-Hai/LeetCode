@@ -9,8 +9,9 @@ package LeetCode_0905;
  * @author Q-WHai
  * @see <a href="https://github.com/qwhai">https://github.com/qwhai</a>
  */
-class Solution {
-    int[] sortArrayByParity(int[] A) {
+public class Solution {
+
+    public int[] sortArrayByParity(int[] A) {
         for (int i = 0; i < A.length; i++) {
             if (0 == A[i] % 2)
                 continue;

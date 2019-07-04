@@ -4,8 +4,9 @@ package LeetCode_0053;
  * @Author: Q-WHai
  * @Date: Created in 10:35 2019/03/19
  */
-class Solution {
-    int maxSubArray(int[] nums) {
+public class Solution {
+
+    public int maxSubArray(int[] nums) {
         int sum = 0;
         int psum = 0;
         int max = Integer.MIN_VALUE;

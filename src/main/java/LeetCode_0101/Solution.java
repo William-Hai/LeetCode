@@ -4,9 +4,9 @@ package LeetCode_0101;
  * @Author: Q-WHai
  * @Date: Created in 18:13 2019/04/22
  */
-class Solution {
+public class Solution {
 
-    boolean isSymmetric(TreeNode root) {
+    public boolean isSymmetric(TreeNode root) {
         if (null == root) return true;
 
         return adjust(root.left, root.right);

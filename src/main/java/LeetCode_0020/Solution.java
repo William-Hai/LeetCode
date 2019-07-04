@@ -1,7 +1,7 @@
 package LeetCode_0020;
 
-class Solution {
-    boolean isValid(String s) {
+public class Solution {
+    public boolean isValid(String s) {
         char[] chars = s.toCharArray();
         MatchStack stack = new MatchStack(chars.length);
         for (char c : chars) {
