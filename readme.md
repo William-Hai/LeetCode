@@ -59,6 +59,7 @@
 | **1018** | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Solution](src/main/java/LeetCode_1018) | Easy | Accepted |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](src/main/java/LeetCode_1021) | Easy | Accepted |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Solution](src/main/java/LeetCode_1022) | Easy | Accepted |
+| 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [Solution](src/main/java/LeetCode_1028) | Hard | Accepted |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Solution](src/main/java/LeetCode_1038) | Medium | Accepted |
 | **1079** | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [Solution](src/main/java/LeetCode_1079) | Medium | Accepted |
 
