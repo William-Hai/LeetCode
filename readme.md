@@ -62,6 +62,7 @@
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [Solution](src/main/java/LeetCode_1028) | Hard | Accepted |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Solution](src/main/java/LeetCode_1038) | Medium | Accepted |
 | **1079** | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [Solution](src/main/java/LeetCode_1079) | Medium | Accepted |
+| 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Solution](src/main/java/LeetCode_1103) | Medium | Accepted |
 
 -----
 
