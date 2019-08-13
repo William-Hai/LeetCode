@@ -4,6 +4,8 @@
 ![](https://img.shields.io/badge/ide-intellij%20idea-blue.svg)
 ![](https://img.shields.io/badge/maven-3.6.1-orangered.svg)
 
+### Accepted
+
 
 | #    | Title   | Solution                    | Difficulty                        | Acceptance |
 |:----:|:--------|:---------------------------:|-----------------------------------|------------|
@@ -56,6 +58,7 @@
 | 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Solution](src/main/java/LeetCode_0929) | Easy | Accepted |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](src/main/java/LeetCode_0938) | Easy | Accepted |
 | 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](src/main/java/LeetCode_0961) | Easy | Accepted |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Solution](src/main/java/LeetCode_1008) | Medium | Accepted |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Solution](src/main/java/LeetCode_1013) | Easy | Accepted |
 | **1018** | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Solution](src/main/java/LeetCode_1018) | Easy | Accepted |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](src/main/java/LeetCode_1021) | Easy | Accepted |
@@ -65,6 +68,15 @@
 | **1079** | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [Solution](src/main/java/LeetCode_1079) | Medium | Accepted |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Solution](src/main/java/LeetCode_1103) | Medium | Accepted |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Solution](src/main/java/LeetCode_1108) | Easy | Accepted |
+
+-----
+
+### Distribution Map
+
+- List
+    - 2 21 83
+- Tree
+    - 100 101 104 654 701 938 1008 1022 1028 1038
 
 -----
 
