@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/java-1.8-cornflowerblue.svg)
 ![](https://img.shields.io/badge/ide-intellij%20idea-blue.svg)
 ![](https://img.shields.io/badge/maven-3.6.1-orangered.svg)
+![](https://img.shields.io/badge/junit-4.11-deeppink.svg)
 
 ### Accepted
 
@@ -57,6 +58,7 @@
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](src/main/java/LeetCode_0905) | Easy | Accepted |
 | 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Solution](src/main/java/LeetCode_0929) | Easy | Accepted |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](src/main/java/LeetCode_0938) | Easy | Accepted |
+| 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Solution](src/main/java/LeetCode_0950) | Medium | Accepted |
 | 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](src/main/java/LeetCode_0961) | Easy | Accepted |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Solution](src/main/java/LeetCode_1008) | Medium | Accepted |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Solution](src/main/java/LeetCode_1013) | Easy | Accepted |
@@ -74,9 +76,11 @@
 ### Distribution Map
 
 - List
-    - 2 21 83
+    - [2]() [21]() [83]()
 - Tree
-    - 100 101 104 654 701 938 1008 1022 1028 1038
+    - [100]() [101]() [104]() [654]() [701]() [938]() [1008]() [1022]() [1028]() [1038]()
+- Dp
+    - [53]() [70]()
 
 -----
 
