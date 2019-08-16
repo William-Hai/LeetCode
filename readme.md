@@ -21,6 +21,7 @@
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](src/main/java/LeetCode_0011) | Medium | Accepted | N/A |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](src/main/java/LeetCode_0013) | Easy | Accepted |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](src/main/java/LeetCode_0014) | Easy | Accepted |
+| 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](src/main/java/LeetCode_0014) | Medium | Accepted | Array |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](src/main/java/LeetCode_0020) | Easy | Accepted |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](src/main/java/LeetCode_0021) | Easy | Accepted | LinkedList |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](src/main/java/LeetCode_0026) | Easy | Accepted | Array |
