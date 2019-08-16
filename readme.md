@@ -61,6 +61,7 @@
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](src/main/java/LeetCode_0938) | Easy | Accepted |
 | 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Solution](src/main/java/LeetCode_0950) | Medium | Accepted |
 | 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](src/main/java/LeetCode_0961) | Easy | Accepted |
+| 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](src/main/java/LeetCode_0977) | Easy | Accepted |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Solution](src/main/java/LeetCode_1008) | Medium | Accepted |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Solution](src/main/java/LeetCode_1013) | Easy | Accepted |
 | **1018** | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Solution](src/main/java/LeetCode_1018) | Easy | Accepted |
