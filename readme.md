@@ -46,6 +46,7 @@
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](src/main/java/LeetCode_0104) | Easy | Accepted | Tree |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](src/main/java/LeetCode_0155) | Easy | Accepted |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](src/main/java/LeetCode_0209) | Medium | Accepted | Array |
+| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](src/main/java/LeetCode_0344) | Easy | Accepted | N/A |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](src/main/java/LeetCode_0415) | Easy | Accepted |
 | 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Solution](src/main/java/LeetCode_0535) | Medium | Accepted |
 | 0654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](src/main/java/LeetCode_0654) | Medium | Accepted | Tree |
