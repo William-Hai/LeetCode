@@ -46,6 +46,7 @@
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](src/main/java/LeetCode_0104) | Easy | Accepted | Tree |
 | **0136** | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](src/main/java/LeetCode_0136) | Easy | Accepted | Bit |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](src/main/java/LeetCode_0155) | Easy | Accepted |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](src/main/java/LeetCode_0206) | Easy | Accepted | LinkedList |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](src/main/java/LeetCode_0209) | Medium | Accepted | Array |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](src/main/java/LeetCode_0344) | Easy | Accepted | N/A |
 | *0412* | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](src/main/java/LeetCode_0412) | Easy | Accepted | N/A |
