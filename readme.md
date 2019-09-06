@@ -63,7 +63,8 @@
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](src/main/java/LeetCode_0804) | Easy | Accepted |
 | 0807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Solution](src/main/java/LeetCode_0807) | Medium | Accepted |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Solution](src/main/java/LeetCode_0832) | Easy | Accepted | Matrix |
-| **0877** | [Stone Game](https://leetcode.com/problems/stone-game/) | [Solution](src/main/java/LeetCode_0832) | Medium | Accepted |
+| 0824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Solution](src/main/java/LeetCode_0824) | Easy | Accepted | String |
+| **0877** | [Stone Game](https://leetcode.com/problems/stone-game/) | [Solution](src/main/java/LeetCode_0877) | Medium | Accepted |
 | 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [Solution](src/main/java/LeetCode_0890) | Medium | Accepted |
 | *0893* | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Solution](src/main/java/LeetCode_0893) | Easy | Accepted | String |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](src/main/java/LeetCode_0905) | Easy | Accepted | Array |
