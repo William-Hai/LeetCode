@@ -52,6 +52,7 @@
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](src/main/java/LeetCode_0344) | Easy | Accepted | N/A |
 | *0412* | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](src/main/java/LeetCode_0412) | Easy | Accepted | N/A |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](src/main/java/LeetCode_0415) | Easy | Accepted |
+| 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution](src/main/java/LeetCode_0521) | Easy | Accepted | String |
 | 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Solution](src/main/java/LeetCode_0535) | Medium | Accepted |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](src/main/java/LeetCode_0557) | Easy | Accepted | String |
 | 0654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](src/main/java/LeetCode_0654) | Medium | Accepted | Tree |
