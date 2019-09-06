@@ -82,6 +82,7 @@
 | **1079** | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [Solution](src/main/java/LeetCode_1079) | Medium | Accepted |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Solution](src/main/java/LeetCode_1103) | Medium | Accepted |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Solution](src/main/java/LeetCode_1108) | Easy | Accepted |
+| 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Solution](src/main/java/LeetCode_1170) | Easy | Accepted | String |
 
 
 -----
